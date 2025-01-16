@@ -1,4 +1,4 @@
-# IEA Wind Systems GitHub Organization
+**IEA Wind Systems GitHub Organization**
 
 The [IEAWindSystems GitHub organization](https://github.com/IEAWindSystems)
 manages and coordinates repositories created through the IEA Wind
@@ -19,4 +19,3 @@ Projects included in this organization are:
     <!-- - IEA-3.4-130-RWT - This repository contains the model data of the land-based reference wind turbine developed within IEA Wind Task 37 -->
     <!-- - iea37-wflo-casestudies - Two case studies designed to study variability in optimization approach and wake models for wind farm layout optimization. In accordance with IEA Task 37. -->
 - [windio2cad](https://github.com/IEAWindSystems/windio2cad)
-
