@@ -1,41 +1,23 @@
-## Welcome to GitHub Pages
+# IEA Wind Systems GitHub Organization
 
-🚀 🐼
+The [IEAWindSystems GitHub organization](https://github.com/IEAWindSystems)
+manages and coordinates repositories created through the IEA Wind
+Technology Collaboration Programme (TCP).
+The work included here is typically the result of collaborative research and development
+through the following tasks:
+- [IEA Wind Task 37](https://iea-wind.org/task37/): Systems Engineering
+- [IEA Wind Task 43](https://iea-wind.org/task43/): Wind Energy Digitalization
+- [IEA Wind Task 55](https://iea-wind.org/task55/): Reference Wind Turbines and Plants
 
-yes
+Projects included in this organization are:
+- [windIO](https://github.com/IEAWindSystems/windIO)
+- Reference systems:
+    - [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) - 15MW reference wind turbine repository developed in conjunction with IEA Wind
+    - [IEA-22-280-RWT](https://github.com/IEAWindSystems/IEA-22-280-RWT) - Repository for the IEA 22-MW offshore reference wind turbine developed by the IEA Wind Task 55 REFWIND
+    - [IEA-10.0-198-RWT](https://github.com/IEAWindSystems/IEA-10.0-198-RWT)
+    - [IEA-Wind-740-10-ROWP](https://github.com/IEAWindSystems/IEA-Wind-740-10-ROWP) - IEA Wind 740MW Reference Offshore Wind Plants Made of IEA10MW RWT
+    <!-- - IEA-Offshore-Borssele - Repository for the IEA Wind Reference Offshore Wind Farm in Borssele -->
+    <!-- - IEA-3.4-130-RWT - This repository contains the model data of the land-based reference wind turbine developed within IEA Wind Task 37 -->
+    <!-- - iea37-wflo-casestudies - Two case studies designed to study variability in optimization approach and wake models for wind farm layout optimization. In accordance with IEA Task 37. -->
+- [windio2cad](https://github.com/IEAWindSystems/windio2cad)
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check o
