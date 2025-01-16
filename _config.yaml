@@ -17,14 +17,14 @@ remote_theme: daattali/beautiful-jekyll
 title: IEA Wind Systems
 
 # Your name to show in the footer
-author: IEA Wind Task 37
+# author: IEA Wind Task 55
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  IEA Task 37: "https://iea-wind.org/task37/"
+  IEA Wind: "https://iea-wind.org/"
 
 ################
 # --- Logo --- #
@@ -127,7 +127,7 @@ url-pretty: "ieawindsystems.github.io"
 # navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "wind energy, data, digitilization, IEA Wind, Task 37"
+keywords: "wind energy, data, digitilization, IEA Wind, Task 55"
 
 ######################################
 # --- Colours / background image --- #
