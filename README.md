@@ -5,7 +5,7 @@ manages and coordinates repositories created through the IEA Wind
 Technology Collaboration Programme (TCP).
 The work included here is typically the result of collaborative research and development
 through the following tasks:
-- [IEA Wind Task 37](https://iea-wind.org/task37/): Systems Engineering
+- [IEA Wind Task 37](https://iea-wind.org/task37/): Systems Engineering (completed in 2023)
 - [IEA Wind Task 55](https://iea-wind.org/task55/): Reference Wind Turbines and Plants
 
 Projects included in this organization are:
